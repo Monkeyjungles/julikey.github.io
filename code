@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Personal Landing Page</title>
+    <style>
+      /*  */
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Julia Karimova's Space</h1>
+      <!-- Add any other header content here, such as a navigation menu -->
+    </header>
+    
+    <main>
+      <section>
+        <h2>About me</h2>
+        <p>My name is Julia. I am a Creative Content Writer with a solid track record and the ability to generate impactful ideas for various briefs.
+I feel confident in developing creative concepts and strategy, as well as writing, editing and localization. I am an experienced UX-writer with passion for semantic and lexemes.
+I know how to lead and inspire creative teams and have experience in creative workflow and production management.
+I am a keen team player and a self-sufficient multitasker.</p>
+      </section>
+      
+      <section>
+        <h2>My Projects</h2>
+        <ul>
+          <li><a href="#">Outbred Dogs</a></li>
+          <li><a href="#">Angel Call</a></li>
+          <li><a href="#">First First Aif</a></li>
+        </ul>
+        <p>I adore witnessing as cool ideas make the world a better place.</p>
+      </section>
+      
+      <section>
+        <h2>Contact Me</h2>
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name"><br>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email"><br>
+          <label for="message">Message:</label><br>
+          <textarea id="message" name="message"></textarea><br>
+          <input type="submit" value="Send">
+        </form>
+      </section>
+    </main>
+    
+    <footer>
+      <p>http://julikey.pro</p>
+      <!-- Add any other footer content here, such as social media links -->
+    </footer>
+  </body>
+</html>
